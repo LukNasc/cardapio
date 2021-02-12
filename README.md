@@ -1,3 +1,9 @@
+# Cardápio
+
+Uma aplicação construida apenas para fins de apredizagem, para utiliza-la é preciso ter o TW Dev Server instalado e rodando dentro da aplicação.  
+  
+Essa aplicação foi utilizada algumas ferramentas como o React-Intl, react-transition-group e o react-router-dom, elém de alguns testes realizados com enzyme.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
